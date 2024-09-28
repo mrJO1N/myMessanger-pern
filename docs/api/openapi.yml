@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: messager for me
+  version: 0.0.0
+  description: A simple API of messager
+
+paths:
+  /api/users/:
+    get:
+      parameters:
+        -

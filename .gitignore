@@ -1,0 +1,7 @@
+# dev test
+**/*.dt.*
+
+./vscode
+**/node_modules
+**/build
+**/.env
